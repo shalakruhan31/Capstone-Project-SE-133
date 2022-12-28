@@ -1,0 +1,84 @@
+
+
+
+
+Passenger Details
+Name : Arnob
+Gender : Male
+Phone : 013567890
+
+Journey Details :
+Dhaka to Rangpur
+11-12-22
+seat no : A2
+:
+Payment Details :
+Total paid 550
+
+Passenger Details
+Name : Munna
+Gender : Male
+Phone : 0173672890
+
+Journey Details :
+
+Dhaka to Sirajganj
+S.I Enterprice 
+Bus start 10:30PM
+Boarding point Gabtoli bus stand
+11-12-22
+sit no : A2
+:
+Payment Details :
+Total paid 350
+
+Passenger Details
+Name : 123456
+Gender : m
+Phone : 1234567
+
+Journey Details :
+
+dhaka to sirajganj
+S.I Enterprice 
+Bus start 10:30PM
+Boarding point Gabtoli bus stand
+20-12-22
+sit no : A2
+:
+Payment Details :
+Total paid 350
+
+Passenger Details
+Name : shalak
+Gender : Male
+Phone : 01790
+
+Journey Details :
+
+dhaka to sirajganj
+S.I Enterprice 
+Bus start 10:30PM
+Boarding point Gabtoli bus stand
+20-12-22
+sit no : A2
+:
+Payment Details :
+Total paid 350
+
+Passenger Details
+Name : RUHAN
+Gender : MALE
+Phone : 0179-0
+
+Journey Details :
+
+dhaka to sirajganj
+S.I Enterprice 
+Bus start 10:30PM
+Boarding point Gabtoli bus stand
+20-12-22
+sit no : A2
+:
+Payment Details :
+Total paid 350
